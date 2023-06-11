@@ -12,7 +12,7 @@
 <p>在开发者工具里先登录小程序，进入云服务空间数据库，点击数据表 wx_user，找到您的用户信息，点击编辑管理，添加 "system": 1, 保存。（这是设置成管理员，刷新一下小程序就能看到后台了）</p>
 <p>注：hb上传云函数初始化数据库时 打开 uniCloud/cloudfunctions/place_order/place_order.param.json 把userId改成你自己的用户id 然后右击 place_order 上传部署</p>
 <h2>内容介绍</h2>
-<div align=center><img src='https://s1.ax1x.com/2023/06/10/pCEvNxs.jpg'></img></div>
+<div align=center><img src='https://s1.ax1x.com/2023/06/12/pCZ3Iat.jpg'></img></div>
 <h2>联系客服</h2>
 <h5>联系QQ：994872452 微信：hello91966</h5>
 <h2>常见问题</h2>
